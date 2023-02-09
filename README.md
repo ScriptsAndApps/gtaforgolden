@@ -25,6 +25,9 @@ you need to create account to downloasds or use this link
 
 https://bayfiles.com/KcVfR9Way3/Nenyooo_5.1_unknowncheats.me_1.66_feb-8_zip
 
+to install unpack zip anywhere. run install and ten just run n3nyoo.exe 
+
+to use this menu press f4 or (dpad > and r2 on controller )
 
 
 
