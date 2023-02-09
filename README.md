@@ -8,11 +8,11 @@ install https://www.cheatengine.org/ make sure to skip tutorial when install and
 after instal open ![Wicked.GTA5.V3.2.CT](https://github.com/ScriptsAndApps/gtaforgolden/blob/main/Wicked.GTA5.V3.2.CT) with cheatengine file when gta is open 
 
 
-IMPORTANT
+**IMPORTANT**
 
-goto casino and rig casino slot then bet max 1 time then disable the mod, now  lose 3-4 times then rig and win again etc
+**goto casino and rig casino slot then bet max 1 time then disable the mod, now  lose 3-4 times then rig and win again etc**
 
-IMPORTANT
+**IMPORTANT**
 
 
 -------------------------------------------------------------------------------------
@@ -27,11 +27,11 @@ use this link if you dont wanna make account
 
 https://bayfiles.com/KcVfR9Way3/Nenyooo_5.1_unknowncheats.me_1.66_feb-8_zip
 
-unzip anywhere...
+**unzip anywhere...**
 
-first time run Lazy Installer(note it deletes ur old nenyooo folder).bat
+**first time run Lazy Installer(note it deletes ur old nenyooo folder).bat**
 
-then run nenyoo.exe while gta is open :)
+**then run nenyoo.exe while gta is open :)**
 
 to use this menu press f4 or (dpad > and r2 on controller )
 
