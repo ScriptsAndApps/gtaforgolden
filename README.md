@@ -17,6 +17,15 @@ after instal open ![Wicked.GTA5.V3.2.CT](https://github.com/ScriptsAndApps/gtafo
 
 -------------------------------------------------------------------------------------
 
+picture of the script for cheatengine how to enable rig slots in casino (only use 1 time win. then disable and lose cople of times. then repeat)
+
+![alt text](https://raw.githubusercontent.com/ScriptsAndApps/gtaforgolden/main/slot.png)
+
+
+-------------------------------------
+
+
+
 here is a mod menu if you dont want to use the script.. this is not the same tho
 
 https://www.unknowncheats.me/forum/grand-theft-auto-v/488777-n3ny000-menu-1-66-a.html 
@@ -35,19 +44,6 @@ https://bayfiles.com/KcVfR9Way3/Nenyooo_5.1_unknowncheats.me_1.66_feb-8_zip
 
 to use this menu press f4 or (dpad > and r2 on controller )
 
-
-
-
-----------------------------------------------------
-picture of the script for cheatengine how to enable rig slots in casino (only use 1 time win. then disable and lose cople of times. then repeat)
-
-![alt text](https://raw.githubusercontent.com/ScriptsAndApps/gtaforgolden/main/slot.png)
-
-
-
--------------------------------------
-
-menu picture (f4) 
 
 
 ![alt text](https://raw.githubusercontent.com/ScriptsAndApps/gtaforgolden/main/nenyoo.png)
