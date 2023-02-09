@@ -17,7 +17,7 @@ IMPORTANT
 
 -------------------------------------------------------------------------------------
 
-here is a mod menu you can also use to drive faster etc,.. 
+here is a mod menu if you dont wqant to use the script.. this is not the same tho
 
 https://www.unknowncheats.me/forum/grand-theft-auto-v/488777-n3ny000-menu-1-66-a.html 
 
