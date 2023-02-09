@@ -37,4 +37,5 @@ to use this menu press f4 or (dpad > and r2 on controller )
 
 ----------------------------------------------------
 picture of the script for cheatengine how to enable rig slots in casino (only use 1 time win. then disable and lose cople of times. then repeat)
+
 ![alt text](https://raw.githubusercontent.com/ScriptsAndApps/gtaforgolden/main/slot.png)
