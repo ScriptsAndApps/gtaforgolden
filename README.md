@@ -28,8 +28,11 @@ use this link if you dont wanna make account
 https://bayfiles.com/KcVfR9Way3/Nenyooo_5.1_unknowncheats.me_1.66_feb-8_zip
 
 unzip anywhere...
+
 first time run Lazy Installer(note it deletes ur old nenyooo folder).bat
+
 then run nenyoo.exe while gta is open :)
+
 to use this menu press f4 or (dpad > and r2 on controller )
 
 
