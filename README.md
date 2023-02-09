@@ -21,12 +21,15 @@ here is a mod menu if you dont wqant to use the script.. this is not the same th
 
 https://www.unknowncheats.me/forum/grand-theft-auto-v/488777-n3ny000-menu-1-66-a.html 
 
-you need to create account to downloasds or use this link
+you need to create account to downloasds or 
+
+use this link if you dont wanna make account
 
 https://bayfiles.com/KcVfR9Way3/Nenyooo_5.1_unknowncheats.me_1.66_feb-8_zip
 
-to install unpack zip anywhere. run install and ten just run n3nyoo.exe 
-
+unzip anywhere...
+first time run Lazy Installer(note it deletes ur old nenyooo folder).bat
+then run nenyoo.exe while gta is open :)
 to use this menu press f4 or (dpad > and r2 on controller )
 
 
