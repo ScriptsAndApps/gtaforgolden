@@ -27,4 +27,4 @@ https://bayfiles.com/KcVfR9Way3/Nenyooo_5.1_unknowncheats.me_1.66_feb-8_zip
 
 ----------------------------------------------------
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/ScriptsAndApps/gtaforgolden/main/slot.png)
